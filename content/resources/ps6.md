@@ -4,6 +4,8 @@ description: Bethe-Block formula
 file: /courses/22-101-applied-nuclear-physics-fall-2003/84ca3f9cef3e8823188ff91d59f90fa7_ps6.pdf
 file_size: 439598
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

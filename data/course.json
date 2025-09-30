@@ -27,6 +27,7 @@
     "website": "22-101-applied-nuclear-physics-fall-2003"
   },
   "course_title": "Applied Nuclear Physics",
+  "hide_download": true,
   "course_description": "The topics covered under this course include elements of nuclear physics for engineering students, basic properties of the nucleus and nuclear radiations, quantum mechanical calculations of deuteron bound-state wave function and energy, n-p scattering cross-section, transition probability per unit time and barrier transmission probability. Also explored are binding energy and nuclear stability, interactions of charged particles, neutrons, and gamma rays with matter, radioactive decays, energetics and general cross-section behavior in nuclear reactions.\n",
   "department_numbers": [
     "22"
@@ -37,6 +38,7 @@
     "content": "6be09e9c-5fab-5f41-adeb-b1e5bcb6f607",
     "website": "22-101-applied-nuclear-physics-fall-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams"
