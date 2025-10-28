@@ -4,8 +4,6 @@ description: Schr?dinger equation
 file: /courses/22-101-applied-nuclear-physics-fall-2003/c80efa560a1f8c8f67d4ad575505f55d_ps3.pdf
 file_size: 1179613
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

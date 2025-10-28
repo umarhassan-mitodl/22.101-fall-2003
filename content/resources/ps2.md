@@ -4,8 +4,6 @@ description: Photo-nuclear  reaction
 file: /courses/22-101-applied-nuclear-physics-fall-2003/cb1f7b5583af5a503b1c48b9ddf95b5b_ps2.pdf
 file_size: 733427
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
